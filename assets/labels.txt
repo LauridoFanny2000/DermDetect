@@ -1,0 +1,2 @@
+0 dermatitis
+1 psoriasis
